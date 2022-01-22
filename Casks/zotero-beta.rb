@@ -1,6 +1,6 @@
 cask "zotero-beta" do
-  version "5.0.97-beta.58+44b6cd052"
-  sha256 "1aff386c51e591260738372965f19fa0c2faa8e18a8173f404bd4fb13843fc75"
+  version "5.0.97-beta.63+035aac30f"
+  sha256 "32e7c70b52ccf1c6050523fba0fb19409e86d10173bfa65f1c9b1f646bbb180e"
 
   url "https://download.zotero.org/client/beta/#{version}/Zotero-#{version}.dmg".gsub("+", "%2B")
   name "Zotero"
